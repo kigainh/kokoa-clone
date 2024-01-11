@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,600;1,400&display=swap");
 @import "reset.css";
-
 @import "variables.css";
 
 /* components */
@@ -12,4 +11,5 @@
 
 body {
   font-family: "MuseoModerno", sans-serif;
+  height: 1000vh;
 }
